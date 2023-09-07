@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=2e51db&height=250&section=header&text=Choyeounghyeon&fontSize=40&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=2e51db&height=250&section=header&text=Choyeounghyeon&fontSize=40&animation=fadeIn&fontColor=dd551b)
 
 <!--
 **choyeounghyeon/choyeounghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
