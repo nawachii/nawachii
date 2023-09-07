@@ -10,7 +10,9 @@
 <div align="center">
   <h1>소개</h1>
 </div>
-![top_logo_main1](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/b90c301e-4969-47aa-8feb-09522ea317e1)
 
-  
+| **이름**      | **생년월일** | **소속 정당**     | **학력**      |
+| ------------ | ------------ | ------------ | ------------ |
+| 조영현     | 2008년 05월 13일   |   (예비당원)        | 상품중학교 (재학중)   |
+
   <div align=center><h3>Portfolio</h3></div>
