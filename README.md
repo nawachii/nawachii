@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=dd551b&height=250&section=header&text=Choyeounghyeon&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
