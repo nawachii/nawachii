@@ -4,7 +4,7 @@
 > To seize everything you ever wanted, in one moment<br/>
 > Would you **capture it** or just **let it slip**?
 <div align="right">
-  Lose Yourself - 8 Mile
+  Lose Yourself - ƎMINEM
 </div>
 
 <div align="center">
