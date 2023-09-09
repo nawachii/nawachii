@@ -12,9 +12,9 @@
 </div>
 
 
-| **이름**      | **생년월일** | **소속 정당**     | **학력**      | **링크**      |
+| **Name**      | **Date of Birth** | **Nationality**     | **Education**      | **Link**      |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 조영현     | 2008년 05월 13일   | [![Image](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/a265cb95-e30f-4a27-a81c-3973f3b18088)](https://www.justice21.org/newhome/board/board.html?keycode=name&keyword=Yeoung&bbs_code=JS1) (청소년위원회 예비당원) | 상품중학교 (3학년 재학중)   | [![Image](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/6101d23c-e6fc-49a1-be1e-1c268b014c25)](https://velog.io/@choyeounghyeon)   |
+| 조영현 (Cho Yeoung Hyeon)     | May 13, 2008   | Rep of KOR (South Korea) | Sangpoom Middle School (Currently in 3rd grade)   | [![Image](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/6101d23c-e6fc-49a1-be1e-1c268b014c25)](https://velog.io/@choyeounghyeon)   |
 
   <div align=center><h3>About me</h3></div>
   
@@ -27,18 +27,17 @@
 
 <details>
 <summary>
-  🌀 내가 지금 배우는 것은
+  🌀 What I'm currently learning
 </summary>
-  JS,TS,HTML,CSS,C,C++
+  JS, TS, HTML, CSS, C, C++
 </details>
 <br>
 <details>
 <summary>
-  🔥 앞으로 배우고 싶은 것은
+  🔥 What I want to learn in the future
 </summary>
   C#
 </details>
-
-  <div align=center><h3>motto</h3></div>
-  
-> "배움에 마침표는 없다."
+<div align=center><h3>Motto</h3></div>
+> "There is no end to learning, but there are many beginning" ("학습에는 끝이 없지만 많은 시작이 있습니다.") <br>
+― Tim Johnson
