@@ -18,10 +18,10 @@
 
   <div align=center><h3>About me</h3></div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choyeounghyeon)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choyeounghyeon)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choyeounghyeon&hide=contribs,prs&show_icons=true&theme=테마)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=choyeounghyeon)](choyeounghyeon)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choyeounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choyeounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choyeounghyeon&hide=contribs,prs&show_icons=true&theme=테마)<br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=choyeounghyeon)](choyeounghyeon)<br>
 
   <div align=center><h3>more</h3></div>
 
