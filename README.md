@@ -39,5 +39,6 @@
   C#
 </details>
 <div align=center><h3>Motto</h3></div>
-> "There is no end to learning, but there are many beginning" ("학습에는 끝이 없지만 많은 시작이 있습니다.") <br>
-> Tim Johnson
+
+> "There is no end to learning, but there are many beginning" ("학습에는 끝이 없지만 많은 시작이 있습니다.")<br/>
+> Tim Johnson<br/>
