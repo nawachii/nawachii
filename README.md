@@ -29,7 +29,7 @@
 <summary>
   🌀 What I'm currently learning
 </summary>
-  JS, TS, HTML, CSS, C, C++
+  C, C++
 </details>
 <br>
 <details>
