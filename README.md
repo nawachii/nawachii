@@ -4,11 +4,11 @@
 > To seize everything you ever wanted, in one moment<br/>
 > Would you **capture it** or just **let it slip**?
 <div align="right">
-  Lose Yourself - ƎMINEM
+  Lose Yourself - EMINEM
 </div>
 
 <div align="center">
-  <h1>소개</h1>
+  <h1>About me</h1>
 </div>
 
 
