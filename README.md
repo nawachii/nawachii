@@ -1,12 +1,3 @@
-![Datainfotix](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/6a2be163-6b6a-467b-b182-8f9669832a56)
-
-> Look, if you had one shot, one opportunity<br/>
-> To seize everything you ever wanted, in one moment<br/>
-> Would you **capture it** or just **let it slip**?
-<div align="right">
-  Lose Yourself - EMINEM
-</div>
-
 <div align="center">
   <h1>About me</h1>
 </div>
@@ -35,7 +26,3 @@
 </summary>
   C#
 </details>
-<div align=center><h3>Motto</h3></div>
-
-> "There is no end to learning, but there are many beginning" ("학습에는 끝이 없지만 많은 시작이 있습니다.")<br/>
-> Tim Johnson<br/>
