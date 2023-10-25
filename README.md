@@ -24,5 +24,5 @@
 <summary>
   🔥 What I want to learn in the future
 </summary>
-  C#
+  C#, JS, React
 </details>
