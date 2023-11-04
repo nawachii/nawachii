@@ -2,7 +2,6 @@
   <h1>About me</h1>
 </div>
 
-
 | **Name**      | **Date of Birth** | **Nationality**     | **Education**      | **Link**      |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 조영현 (Cho Yeoung Hyeon)     | May 13, 2008   | Rep of KOR (South Korea) | Sangpoom Middle School (Currently in 3rd grade)   | [![Image](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/6101d23c-e6fc-49a1-be1e-1c268b014c25)](https://velog.io/@choyeounghyeon)   |
