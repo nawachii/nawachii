@@ -1,29 +1,17 @@
-<div align="center">
-  <h1>About me</h1>
-</div>
+### 🔍 연혁
 
-| **Name**      | **Date of Birth** | **Nationality**     | **Education**      | **Link**      |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| 조영현 (Cho Yeoung Hyeon)     | May 13, 2008   | Rep of KOR (South Korea) | Sangpoom Middle School (Currently in 3rd grade)   | [![Image](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/6101d23c-e6fc-49a1-be1e-1c268b014c25)](https://velog.io/@choyeounghyeon)   |
+> 2022 - LLM 기여
 
-  <div align=center><h3>About me</h3></div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choyeounghyeon)](https://github.com/anuraghazra/github-readme-stats)<br>
+> 2022 - 역전파 알고리즘 프로젝트 시작
 
-  <div align=center><h3>more</h3></div>
+> 2023 - iF. 설립
 
-<details>
-<summary>
-  🌀 What I'm currently learning
-</summary>
-  C, C++
-</details>
-<br>
-<details>
-<summary>
-  🔥 What I want to learn in the future
-</summary>
-  C#, JS, React
-</details>
+### 🤬 내 코드는 얼마나 깨끗할까?
 
-![iFDot_OpenSource](https://github.com/choyeounghyeon/choyeounghyeon/assets/133370084/eb4f0536-3137-4df5-8292-58ae27cfa29f)
+✅&nbsp;의미 있는 변수명을 사용합니다.<br>
+✅&nbsp;함수 인수를 최소한으로 구성합니다.<br>
+✅&nbsp;중복되는 코드를 제거 합니다.<br>
+✅&nbsp;한가지에 집중하는 코드를 구성합니다.<br>
+✅&nbsp;모든 사항을 고려하여 주의 깊게 짠 코드를 만듭니다.
+
+#### 깨끗한 코드는 다른 사람이 이해하기 쉽고, 유지보수 시간을 단축시킬 수 있습니다. (੭˙ ˘ ˙)੭
