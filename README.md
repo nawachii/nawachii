@@ -8,10 +8,11 @@ Hi, I am [@ChoYeoungHyeon](https://github.com/ChoYeoungHyeon). 👋
 
 ## Public Speaking
 
-* [The economic impact of esports. The everyday culture driven by esports.](https://www.linkedin.com/pulse/one-integrated-platform-purpose-thomas-dohmke/?trackingId=uOXYXRo%2FQNuvrCwxsf2oaw%3D%3D) @ SangPoom Middle School, Gyeonggi-do, South Korea
+* [The economic impact of esports. The everyday culture driven by esports.](https://www.goeyj.kr/sangpoom-m/main.do) @ SangPoom Middle School, Gyeonggi-do, South Korea
 
 ## In the News
 
 ### 2023
 
 * 
+
