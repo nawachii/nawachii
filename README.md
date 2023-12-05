@@ -10,6 +10,8 @@ Hi, I am [@ChoYeoungHyeon](https://github.com/ChoYeoungHyeon). 👋
 
 * [The economic impact of esports. The everyday culture driven by esports.](https://www.goeyj.kr/sangpoom-m/main.do) @ SangPoom Middle School, Gyeonggi-do, South Korea
 
+* [Introducing excellent domestic companies (Hancom Office)](https://www.goeyj.kr/sangpoom-m/main.do) @ SangPoom Middle School, Gyeonggi-do, South Korea
+
 ## In the News
 
 ### 2023
