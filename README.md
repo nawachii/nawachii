@@ -14,7 +14,7 @@ Hi, I am [@ChoYeoungHyeon](https://github.com/ChoYeoungHyeon). 👋
 
 ## In the News
 
-### 2023
+### 2024
 
 * 
 
