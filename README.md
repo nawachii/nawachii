@@ -4,17 +4,7 @@
 [![Twitter](https://img.shields.io/badge/𝕏-%40ChoYeoungHyeon-58a1f2.svg)](https://twitter.com/ChoYeoungHyeon)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/Yenghn1/)
 
-Hi, I am [@pH-513](https://github.com/pH-513). 👋 
+[![kiatos](https://github.com/pH-513/pH-513/assets/133370084/75ce2f80-9ae7-49a4-9dfe-9e759ffb5b05)](https://choylab.com/Kiatos)
+[![Snak](https://github.com/pH-513/pH-513/assets/133370084/1d1b0f15-eef8-4fa5-91f9-e60df5a09150)](https://choylab.com/Snak)
 
-## Public Speaking
-
-* [The economic impact of esports. The everyday culture driven by esports.](https://www.goeyj.kr/sangpoom-m/main.do) @ SangPoom Middle School, Gyeonggi-do, South Korea
-
-* [Introducing excellent domestic companies (Hancom Office)](https://www.goeyj.kr/sangpoom-m/main.do) @ SangPoom Middle School, Gyeonggi-do, South Korea
-
-## In the News
-
-### 2024
-
-* 
 
