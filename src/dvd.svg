@@ -1,0 +1,113 @@
+<svg fill="none" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        /* derived properties */
+
+        #wrapper-0 {
+          animation: flipX 8.015075376884422s step-end -0.6679229480737018s infinite;
+        }
+
+        #wrapper-1 {
+          animation: moveX 4.007537688442211s linear -0.6679229480737018s infinite;
+        }
+
+        #wrapper-2 {
+          animation: moveY 2.5s linear -0.4166666666666667s infinite alternate;
+        }
+
+        #wrapper-3 {
+          animation: flipY 5s step-end -0.4166666666666667s infinite;
+        }
+
+        #wrapper-4 {
+          animation: hueX 8.015075376884422s step-end -0.6679229480737018s infinite;
+        }
+
+        #wrapper-5 {
+          animation: hueY 5s step-end -0.4166666666666667s infinite;
+        }
+
+        /* static properties */
+
+        #root {
+          width: 718px;
+          height: 478px;
+          overflow: hidden;
+          border: 1px solid #777777;
+        }
+
+        #root * {
+          margin: 0;
+          padding: 0;
+        }
+
+        #thonk {
+          width: 80px;
+          height: 80px;
+        }
+
+        /* key frames */
+
+        @keyframes moveX {
+          0% {
+            transform: translateX(0);
+          }
+          100% {
+            transform: translateX(638px);
+          }
+        }
+
+        @keyframes moveY {
+          0% {
+            transform: translateY(0);
+          }
+          100% {
+            transform: translateY(398px);
+          }
+        }
+
+        @keyframes flipX {
+          0% {
+            transform: scale(1, 1);
+          }
+          50% {
+            transform: scale(-1, 1);
+          }
+        }
+
+        @keyframes flipY {
+          0% {
+            transform: scale(1, 1);
+          }
+          50% {
+            transform: scale(1, -1);
+          }
+        }
+
+        /* Removed the color changing effect keyframes */
+
+      </style>
+
+      <div id="root">
+        <div id="wrapper-0">
+          <div id="wrapper-1">
+            <div id="wrapper-2">
+              <div id="wrapper-3">
+                <div id="wrapper-4">
+                  <div id="wrapper-5">
+                    <img
+                      id="thonk"
+                      alt=""
+                      src="DVD.png"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
