@@ -1,1 +1,1 @@
-![gi](https://github.com/user-attachments/assets/22a0f220-2a10-488a-8202-1c4a2cb2442b)
+![the pen is mightier than the sword](https://github.com/user-attachments/assets/ac5fe794-561f-41d1-810c-adff43268edd)
